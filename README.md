@@ -1,12 +1,40 @@
-# React + Vite
+# 🌐 Rahul Sain – Full-Stack Web Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive developer portfolio showcasing my projects, skills, and experience in building responsive web applications.  
+Crafted with **React.js**, styled with **Tailwind CSS**, and enhanced with smooth **Framer Motion** animations, this portfolio highlights my passion for clean design, performance, and user-friendly interfaces.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
+![Portfolio Preview](src/assets/portfolio.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+- ⚛️ **React.js** – Component-based UI  
+- 🎨 **Tailwind CSS** – Utility-first styling  
+- 🎭 **Framer Motion** – Animations & transitions  
+
+---
+
+## 🔑 Features
+- Responsive design for all devices  
+- Smooth animations and transitions  
+- Clean, modern UI with reusable components  
+- Showcases projects, skills, and contact info  
+
+---
+
+## 🛠️ Getting Started
+```bash
+# Clone the repo
+git clone https://github.com/Anos714/Portfolio
+
+# Go to project folder
+cd Portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
